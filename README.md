@@ -23,7 +23,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/emilbrej/EldoradoRobuxSniper.git
-cd eldorado-robux-sniper
+cd EldoradoRobuxSniper
 ```
 
 Install the required dependency:
