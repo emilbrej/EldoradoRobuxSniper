@@ -117,8 +117,7 @@ eldorado-robux-sniper/
 ├── sniper.py
 ├── requirements.txt
 ├── .gitignore
-├── README.md
-└── eldorado_seen.json
+└── README.md
 ```
 
 `eldorado_seen.json` is generated automatically while the program runs and is excluded from Git using `.gitignore`.
