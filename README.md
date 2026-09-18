@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Configuration
 
-Open `sniper.py` and configure the following values:
+Open `eldoradoSniper.py` and configure the following values:
 
 ```python
 DISCORD_WEBHOOK_URL = "PASTE_YOUR_DISCORD_WEBHOOK_HERE"
@@ -114,7 +114,7 @@ an offer at `$0.00390` per Robux qualifies for an alert.
 
 ```text
 EldoradoRobuxSniper/
-├── sniper.py
+├── eldoradoSniper.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
