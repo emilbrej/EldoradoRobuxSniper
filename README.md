@@ -64,7 +64,7 @@ PASTE_YOUR_DISCORD_WEBHOOK_HERE
 Run the sniper with:
 
 ```bash
-python sniper.py
+python eldoradoSniper.py
 ```
 
 When it starts successfully, it will send a test message to the configured Discord webhook.
