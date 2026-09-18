@@ -113,7 +113,7 @@ an offer at `$0.00390` per Robux qualifies for an alert.
 ## Files
 
 ```text
-eldorado-robux-sniper/
+EldoradoRobuxSniper/
 ├── sniper.py
 ├── requirements.txt
 ├── .gitignore
